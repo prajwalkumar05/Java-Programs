@@ -1,3 +1,4 @@
+package Sorting;
 class BubbleSort{
 
     public static void main(String argss[]){
