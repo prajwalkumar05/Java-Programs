@@ -1,4 +1,3 @@
-
 public class RemoveElementsFormSortedArray {
      public static void main(String[] args) {
 
